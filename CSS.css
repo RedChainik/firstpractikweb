@@ -1,0 +1,39 @@
+.blok1{
+    display: flex;
+}
+
+.blok1__right{
+    margin-top: 50%;
+}
+
+.blok1__right__dawn{
+    background-color: blue;
+    display: table;
+    width: 100%;
+}
+
+.blok2__up{
+    display: flex;
+}
+
+.blok2__up__2{
+    margin-left: auto;
+}
+
+.blok2__down__up, .blok2__down__down{
+    display: flex;
+    margin: 30px 0px;
+}
+
+.blok2__bild{
+    width: 310px;
+    height: 680px;
+    margin: 0px 15px;
+    padding: 20px 20px 30px 20px;
+    background-color: blue;
+    border: 1px solid black;
+}
+
+.blok4{
+    background-image: url(./image/Rectangle.png);
+}
